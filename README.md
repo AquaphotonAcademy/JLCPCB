@@ -55,3 +55,7 @@ errors just click “save to cart”.
 -When the order payment is made the company arranges the production where you can go through your “ACCOUNT” menu to track your order status.
 
 Lastly, JLC is sincerely appreciated for providing us with premium quality products and excellent service. Our team is looking forward to future cooperation.
+
+https://user-images.githubusercontent.com/64872752/192334949-d6311cb5-8b04-45d9-bf22-9661f6e35ae1.mp4
+
+
